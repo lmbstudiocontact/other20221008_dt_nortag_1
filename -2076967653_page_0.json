@@ -1,0 +1,996 @@
+{
+  "id_nortag": "-2076967653",
+  "index_page": 0,
+  "name_parent": "Car",
+  "name_cl_nortag": "Lancia",
+  "total_img": 47,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "346446542",
+  "hc_lt_nortag": "1044066649",
+  "hc_lt_sptag": "-1720461066",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "886478219",
+      "id_img": "1973-Lancia-Stratos-HF-V9-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsrOipDm++04AAW659nSa7dT6d3lGBh7YnK7oQfz3h6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsrOipDm++04AAW659nSa7wOMtYLlwLv9y+rbbfy5hM5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1468407325",
+        "170944125",
+        "1973300674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-489558186",
+      "id_img": "1993-Lancia-Delta-HF-Integrale-Evoluzione-II-V6-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUWv19o8Hf/8FTMeuB4TAFpr2cKiNvy1jefFSvWysNpJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUWv19o8Hf/8FTMeuB4TAF3SYQ8v7K7tPRO03wJGbhgpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1732126107",
+        "296773687",
+        "228202427",
+        "-474702061"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1915083456",
+      "id_img": "1970-Lancia-Fulvia-Coupe-1600-HF-Corsa-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieP05AnhWaqbZwpEB/YOqEpmyz3ucmwTjlGblKaUjO64pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieP05AnhWaqbZwpEB/YOqEpC3kV2zupjkD+alYF2hRcvJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "931878088",
+        "-895678569",
+        "-946072087",
+        "168173562"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "410769326",
+      "hc_lt_id_sptag": "-1246781347",
+      "id_img": "1982-Lancia-Rally-037-Stradale-V4-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5LO37R/p06pIBkbjVj8ANrKhmKv30dI4JndU6AjLhl5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5LO37R/p06pIBkbjVj8ANdGjCLIikFdwdGkzcCWxJeZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-360877373",
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1339099097",
+        "198649755",
+        "-237352817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_250574_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQ91Bp01S5aaf/8uL3RUsO77sxb94QfG6vu6USufcXYZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQ91Bp01S5aaf/8uL3RUsOBWLk2xM/K/MlL9SVu6VNJ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_188722_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifa1TseebB/YTsoUWUlkq0sDT2PW+Dnap6dWSkL+UpTRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifa1TseebB/YTsoUWUlkq0s+cJ+9ECgQsRR97h+NTpOR5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1663751499",
+      "id_img": "1992-Lancia-Delta-HF-Integrale-Evoluzione-V5-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWG3eJQfUmwtOySekLfVyvJInmLzR4UTe14Rryx16B8pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWG3eJQfUmwtOySekLfVyvQeGdVXBKo4VE2/AnK+UrLZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1535612602",
+        "227278906",
+        "296773687",
+        "-474702061"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_541167_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7FEFFaCkdQjVgC/Byvqv79uwlJdYrA69YTfoBOjBHG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7FEFFaCkdQjVgC/Byvqv7c4tBqjkfnc3MQ31R6c+LDJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1147565805",
+      "id_img": "1964-Lancia-Flavia-Sport-Corsa-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxySlkOehG5byl8uTWnsgr6TJ3ih/9OU+qgCmpEWF/B5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxySlkOehG5byl8uTWnsgrJ+u+o1vjN4dMhDrFL3y2AJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1971945430",
+        "143238495",
+        "1033687757",
+        "-946072087"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_478578_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2muLDBMNeqMXj4o3/b6SSz86L7mXl6QFpFP5d/u0bfZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2muLDBMNeqMXj4o3/b6SSsITQp4/ya/HIRXSPov0Xv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1723020578",
+      "id_img": "1993-Lancia-Delta-HF-Integrale-Evoluzione-II-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddsvu9jTKUjTafJ8o+wCZVLao/bdWUWQd+7zBVUpzj2ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddsvu9jTKUjTafJ8o+wCZVXm0oXnja5/WQcSnO97tm5ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "296773687",
+        "228202427",
+        "-474702061",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-728125109",
+      "id_img": "1970-Lancia-Fulvia-Coupe-1600-HF-Corsa-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgwBpM4hPOu+GJwslkYAr4+kL7gr7Y7tiKjnxuLIGxPZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgwBpM4hPOu+GJwslkYAr4vNm6+Dab4Yn6lrjYyg06oZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "931878088",
+        "-895678569",
+        "168173562",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_188725_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsgLKnP6DIzHdR87uDs9gxcrYLc+qa+V/RdOUswwvx95Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsgLKnP6DIzHdR87uDs9gxGyX+EQCdnuW9L9S47CJfe5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "406678029",
+      "id_img": "1973-Lancia-Stratos-HF-V7-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicESVxOqq3i2sc2zRKvT+iC20rI0Uv/a+2CbR1nh5i/kJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicESVxOqq3i2sc2zRKvT+iCKM8l+Z7HSbYNcwFOt1ZDYZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1928639612",
+        "-1468407325",
+        "170944125"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_273156_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepdSxv/Gktl8rwFPwW5UAd5aWPEo6lBuPsMTCbLXdI5JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepdSxv/Gktl8rwFPwW5UAd3VrA1yqAlSwd5im3oLRtG5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_379897_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic76fZOxDpr+nP48a6GFaYwB897UEYY/KDJ/dxBwuMY3ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic76fZOxDpr+nP48a6GFaYwDuaxGnXvLLkPqd6e63FsPJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "410769326",
+      "hc_lt_id_sptag": "-337353025",
+      "id_img": "1982-Lancia-Rally-037-Stradale-V6-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+d0zzgy6RVneI39JvKxIh8SWdXQqo6Z38N5BV2ligh5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+d0zzgy6RVneI39JvKxIhhfiufGrIUUrEAopD+RigO5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-360877373",
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1732126107",
+        "198649755",
+        "-237352817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-2096753618",
+      "id_img": "1972-Lancia-Stratos-Group-4-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGUzyE/PzvIkzIlcrcMnlYzohkhhYCP2/njdfWi9MNJZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGUzyE/PzvIkzIlcrcMnlY85GIAWTEKyTDb6OycxaDD5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "170020604",
+        "-1468407325",
+        "-749558582"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_391975_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT9Bsi1sEYrJ0R1y8mJQobtPp3sZOFyLTpkuxoIDEW45Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT9Bsi1sEYrJ0R1y8mJQobxlGO5jSdAKAVwYWnmLcdBpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_273160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJunbd4Lfu8+qeoaWHE/A4fq6CGuw8Efx75F40/6OpnZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJunbd4Lfu8+qeoaWHE/A4X2aK1iUtbV3sbSHlutiSKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1317814075",
+      "id_img": "1993-Lancia-Delta-HF-Integrale-Evoluzione-II-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecx/fcEI8TNxphWH9znLy2UtsSoajrnmV4my+ywg6APJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecx/fcEI8TNxphWH9znLy2C/NhIwbNqlWE3POQT7qteJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-749558582",
+        "296773687",
+        "228202427",
+        "-474702061"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1092296566",
+      "id_img": "1985-Lancia-Delta-S4-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtIABcIoH8payyjsBerUhWa3QeUUdR7g2+O6tUUarGf5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtIABcIoH8payyjsBerUhWHmh+Kb7C2CJszxhCypiSepVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "201420318",
+        "-749558582",
+        "-474702061"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_273157_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie25zq+tboLRWJzDVyDtcf6XrUOIS7b76m3nz6BG0vgc5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie25zq+tboLRWJzDVyDtcf6pN4eVRQ8XSO1Tqji254aAJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1379338847",
+      "id_img": "1983-Lancia-Delta-HF-Turbo-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAvf/d58meLGjr7eVgO5wOdWqYmM9t3YWV9QY18rHTspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAvf/d58meLGjr7eVgO5wOIfWe2hTw/CHiuOQm7ob+w5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "199573276",
+        "-474702061",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_188718_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic290Iq8BZobLOFtHVfObq86NBulKGGgZO9JbLCk/VMq5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic290Iq8BZobLOFtHVfObq80PN3w6HIG9imZv+2zccEHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_541168_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdlDVuz0JRCJiRpHoaflr3STeczSrOfF9TBt/5+OFFRpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdlDVuz0JRCJiRpHoaflr3T11qjkBvVJHNDiWnjDbkipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_541170_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepTLfFaUKtuiKY9mVvcnTTFFfVAHwsn6ASAw/KQZzeSJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepTLfFaUKtuiKY9mVvcnTTwAJo0TWh9j1fzgPCPW8capVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "976369127",
+      "id_img": "1964-Lancia-Flavia-Sport-Corsa-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGpbHdX/G/0yjIePI68XXzauUYBrdp+q/pZtVu6LtBLJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGpbHdX/G/0yjIePI68XXzvmzzfFxVqx7b7/RLVeFnm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1971945430",
+        "143238495",
+        "1033687757",
+        "-749558582"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "500568028",
+      "id_img": "1972-Lancia-Stratos-Group-4-V5-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/j8Hx9jS/0fglQPASaNCiqdaXO64dPyUMaoTHMT+kuJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/j8Hx9jS/0fglQPASaNCi/+DIphIq6jS15YriyYwMqJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "170020604",
+        "-1468407325",
+        "-1535612602"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "1271797512",
+      "id_img": "1964-Lancia-Flavia-Sport-Corsa-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdaPBCrngqdKZOefJn20Worw2jueRuY/y35BHiC4e8cJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdaPBCrngqdKZOefJn20Wo9ylUHpUNnRAZOZCR+MpsLpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1971945430",
+        "143238495",
+        "1033687757",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_253947_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejZm3zmOsp4KjbBl9jpQuaySc05oksLq0qq2zCrWm2WpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejZm3zmOsp4KjbBl9jpQuaYqZgO+nCtOchcs2YOie6WZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-546467397",
+      "id_img": "1973-Lancia-Stratos-HF-V5-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1ZPi+bAsmR4r4jiNwhUo8FsgWEpGoJeiV6PngTxrpvpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1ZPi+bAsmR4r4jiNwhUo85liir4zGzPpNDGqCZLJphJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1468407325",
+        "170944125",
+        "-1535612602"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_273161_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnbd/jPHjSdHceT6Repkp9oY+vd/4NNOW/aZT4PoiYX5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnbd/jPHjSdHceT6Repkp9Hh2oGBFXHPzRh1tG/DjAJZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_208474_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpo39eeNTzEX48oThT8AWC9BbH5Ejh/11IsASiWC2j7pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpo39eeNTzEX48oThT8AWCAixmguehFOlqlQh0XfHEyZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1092296566",
+      "id_img": "1985-Lancia-Delta-S4-Stradale-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgbT1GjqvumrQ+5Rh9Ja7cfuqqIFonlvGIXRgAwVAStZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgbT1GjqvumrQ+5Rh9Ja7ckBCWhsJgTp7L34MOZd14pZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "201420318",
+        "-749558582",
+        "-474702061"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_541155_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCuR5KzW1VRqi8he2Wtl7AzGTCvn38mMOoe1ZoOPqjIJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCuR5KzW1VRqi8he2Wtl7ABj3kAs779bTb2SRS0mOQtZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "410769326",
+      "hc_lt_id_sptag": "-407825476",
+      "id_img": "1982-Lancia-Rally-037-Stradale-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQx+Uw42O86ATLYqBjdPsoHsXa94OlbfjYCN3bM+QeLJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQx+Uw42O86ATLYqBjdPsoM7YvhQBMBYSsch/Ekw1EFpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-360877373",
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "198649755",
+        "-749558582",
+        "-237352817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1801325233",
+      "id_img": "1972-Lancia-Stratos-Group-4-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid//sD/MkmtKFk7Zm4/AQCTGmJiCjX38aR9tTb2QoviBpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid//sD/MkmtKFk7Zm4/AQCTVl2nEYQEVkuaeJnE5FlZCJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "170020604",
+        "-1468407325",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "191321365",
+      "id_img": "1970-Lancia-Fulvia-Coupe-1600-HF-Corsa-V4-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLmmzTIlzr3WjG+sWiwt+uIZG81+92a6niHLaIgoOJA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLmmzTIlzr3WjG+sWiwt+u8HNZYM7HZvbQUPPO8ULQTZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "931878088",
+        "-1339099097",
+        "-895678569",
+        "168173562"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "1151178253",
+      "id_img": "1973-Lancia-Stratos-HF-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMhgNQ3IzEcBySJGon78CtTIFW5o1QE5s7b769C1AcmZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMhgNQ3IzEcBySJGon78CtvtXKiCuJAuj1RtAV5lt3fJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1468407325",
+        "170944125",
+        "-749558582"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "1446606638",
+      "id_img": "1973-Lancia-Stratos-HF-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceuS7GrdKyutwQFt4MDa85IQl3yYrDV3iWnK7me4WtvpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceuS7GrdKyutwQFt4MDa85oMbKAqDM5/jO72KNlJvI4pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "-1468407325",
+        "170944125",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_541176_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiee/G27q+rkr9QHzQZK+Wqc7rlb7c3FCx8dJ9tR0ZrOS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiee/G27q+rkr9QHzQZK+WqcaS+i4VSjJX1s8nuEx+e1LJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_541165_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic70dtCUCrebcyDq0S8FbrG3S5F29OIuhhVwhQmODf+Q5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic70dtCUCrebcyDq0S8FbrGZ56BTniWY8lhpxrtIV5hipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "",
+      "id_img": "Lancia_398235_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNvY1bIr3SykVqFTPHnBBA32Siv+R2uqJHJ/IZoYIzGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNvY1bIr3SykVqFTPHnBBANR9rQY9uhqvG3KetYws7kZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "410769326",
+      "hc_lt_id_sptag": "-1495233074",
+      "id_img": "1982-Lancia-Rally-037-Stradale-V5-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2fxcGKgHjP7q7vSF0M/7Coq9QnqLsMeWROJ9ArcoLyJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2fxcGKgHjP7q7vSF0M/7CpWLWzqPjK7rGLPToVF1pdpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-360877373",
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "198649755",
+        "-1535612602",
+        "-237352817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "8937545",
+      "id_img": "1992-Lancia-Delta-HF-Integrale-Evoluzione-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidguoNSfYaIowD9aLfZdrIucmUIgmGm0Rek5Qy+LUv4RpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidguoNSfYaIowD9aLfZdrIuIRxPaifeBuUfoyAFBVkO9JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "227278906",
+        "-749558582",
+        "296773687",
+        "-474702061"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1918338493",
+      "hc_lt_id_sptag": "-1023553494",
+      "id_img": "1970-Lancia-Fulvia-Coupe-1600-HF-Corsa-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyowOaHfAUkfnccb61n2KL7PSgMDWiVkbkL+9Ix1TsJJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyowOaHfAUkfnccb61n2KLppn5wD8buffOpquB8+aitZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-2076967653"
+      ],
+      "lt_id_sptag": [
+        "931878088",
+        "-895678569",
+        "168173562",
+        "-749558582"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2076967653",
+      "name_cl_nortag": "Lancia",
+      "total_img": 47,
+      "name_parent": "Car"
+    },
+    {
+      "id_nortag": "-360877373",
+      "name_cl_nortag": "Rally",
+      "total_img": 12,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "143238495",
+      "name_cl_sptag": "1964",
+      "name_parent": "Car",
+      "total": 19
+    },
+    {
+      "id_sptag": "168173562",
+      "name_cl_sptag": "1970",
+      "name_parent": "Car",
+      "total": 82
+    },
+    {
+      "id_sptag": "170020604",
+      "name_cl_sptag": "1972",
+      "name_parent": "Car",
+      "total": 43
+    },
+    {
+      "id_sptag": "170944125",
+      "name_cl_sptag": "1973",
+      "name_parent": "Car",
+      "total": 33
+    },
+    {
+      "id_sptag": "198649755",
+      "name_cl_sptag": "1982",
+      "name_parent": "Car",
+      "total": 8
+    },
+    {
+      "id_sptag": "199573276",
+      "name_cl_sptag": "1983",
+      "name_parent": "Car",
+      "total": 19
+    },
+    {
+      "id_sptag": "201420318",
+      "name_cl_sptag": "1985",
+      "name_parent": "Car",
+      "total": 45
+    },
+    {
+      "id_sptag": "227278906",
+      "name_cl_sptag": "1992",
+      "name_parent": "Car",
+      "total": 18
+    },
+    {
+      "id_sptag": "228202427",
+      "name_cl_sptag": "1993",
+      "name_parent": "Car",
+      "total": 29
+    },
+    {
+      "id_sptag": "-895678569",
+      "name_cl_sptag": "Coupe",
+      "name_parent": "Car",
+      "total": 324
+    },
+    {
+      "id_sptag": "296773687",
+      "name_cl_sptag": "Evo",
+      "name_parent": "Car",
+      "total": 253
+    },
+    {
+      "id_sptag": "-237352817",
+      "name_cl_sptag": "Lancia 037",
+      "name_parent": "Car",
+      "total": 4
+    },
+    {
+      "id_sptag": "-474702061",
+      "name_cl_sptag": "Lancia Delta",
+      "name_parent": "Car",
+      "total": 8
+    },
+    {
+      "id_sptag": "-1971945430",
+      "name_cl_sptag": "Lancia Flavia",
+      "name_parent": "Car",
+      "total": 3
+    },
+    {
+      "id_sptag": "931878088",
+      "name_cl_sptag": "Lancia Fulvia",
+      "name_parent": "Car",
+      "total": 4
+    },
+    {
+      "id_sptag": "-1468407325",
+      "name_cl_sptag": "Lancia Stratos",
+      "name_parent": "Car",
+      "total": 8
+    },
+    {
+      "id_sptag": "1033687757",
+      "name_cl_sptag": "Sport",
+      "name_parent": "Car",
+      "total": 373
+    },
+    {
+      "id_sptag": "-749558582",
+      "name_cl_sptag": "V1-1440",
+      "name_parent": "Car",
+      "total": 747
+    },
+    {
+      "id_sptag": "-946072087",
+      "name_cl_sptag": "V2-1440",
+      "name_parent": "Car",
+      "total": 394
+    },
+    {
+      "id_sptag": "-1142585592",
+      "name_cl_sptag": "V3-1440",
+      "name_parent": "Car",
+      "total": 491
+    },
+    {
+      "id_sptag": "-1339099097",
+      "name_cl_sptag": "V4-1440",
+      "name_parent": "Car",
+      "total": 254
+    },
+    {
+      "id_sptag": "-1535612602",
+      "name_cl_sptag": "V5-1440",
+      "name_parent": "Car",
+      "total": 256
+    },
+    {
+      "id_sptag": "-1732126107",
+      "name_cl_sptag": "V6-1440",
+      "name_parent": "Car",
+      "total": 200
+    },
+    {
+      "id_sptag": "-1928639612",
+      "name_cl_sptag": "V7-1440",
+      "name_parent": "Car",
+      "total": 77
+    },
+    {
+      "id_sptag": "1973300674",
+      "name_cl_sptag": "V9-1440",
+      "name_parent": "Car",
+      "total": 67
+    }
+  ]
+}

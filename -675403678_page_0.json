@@ -1,0 +1,221 @@
+{
+  "id_nortag": "-675403678",
+  "index_page": 0,
+  "name_parent": "Anime",
+  "name_cl_nortag": "Sangai Senki",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-887420085",
+  "hc_lt_nortag": "2023408111",
+  "hc_lt_sptag": "-863332129",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1376851546",
+      "hc_lt_id_sptag": "271639575",
+      "id_img": "SangaiSenki_863972_crop2608_-1798471277",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQA2ZoirAnMmFIuZi6nbjfjYugKuhqZsH8H+xCiaWnIJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQA2ZoirAnMmFIuZi6nbjf3tdB+BkrdsTz1Dd/ODC3ipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-675403678"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "538504409",
+        "376240968",
+        "-1686571485",
+        "-1450260536",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1376851546",
+      "hc_lt_id_sptag": "-244192138",
+      "id_img": "SangaiSenki_863970_crop2608_-1798471279",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifugjkPVRCaXiGeHe64xREgNlqU3aWshZ2ZKXY0hKUiMpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifugjkPVRCaXiGeHe64xREg+xhVSSppV/h70BefYTrgX5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-675403678"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "1568092380",
+        "-1353196196",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1376851546",
+      "hc_lt_id_sptag": "1627738796",
+      "id_img": "SangaiSenki_863973_crop2608_-1798471276",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjXfuqlb3lN9MNKmG0eqV9f3XqoTbgP6dEiMEG7u0JJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjXfuqlb3lN9MNKmG0eqVPEZxDPwLeMCovCy8S0lW05Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-675403678"
+      ],
+      "lt_id_sptag": [
+        "-1216236529",
+        "-353024394",
+        "1568092380",
+        "680065126",
+        "-1353196196",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1376851546",
+      "hc_lt_id_sptag": "1972716526",
+      "id_img": "SangaiSenki_863968_crop2608_-1798471302",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXTHqxvqQYdYf07MqivrvhvSi8oyX8gtZZVJaJDwA775Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXTHqxvqQYdYf07MqivrvhjETb83jEt1LfOdLv2D59wpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-675403678"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "1010924017",
+        "-1230434216",
+        "-353024394",
+        "1568092380",
+        "1078827483",
+        "-1358769180"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-675403678",
+      "name_cl_nortag": "Sangai Senki",
+      "total_img": 4,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "538504409",
+      "name_cl_sptag": "Girls Hair 2 Color",
+      "name_parent": "Anime",
+      "total": 1686
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1010924017",
+      "name_cl_sptag": "Girls Maid",
+      "name_parent": "Anime",
+      "total": 2625
+    },
+    {
+      "id_sptag": "680065126",
+      "name_cl_sptag": "Girls Sad",
+      "name_parent": "Anime",
+      "total": 10506
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1216236529",
+      "name_cl_sptag": "Sad",
+      "name_parent": "Anime",
+      "total": 12057
+    }
+  ]
+}

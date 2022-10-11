@@ -1,0 +1,96 @@
+{
+  "id_nortag": "635758718",
+  "index_page": 0,
+  "name_parent": "Anime",
+  "name_cl_nortag": "Kimagure Orange Road",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-906436250",
+  "hc_lt_nortag": "-1889240739",
+  "hc_lt_sptag": "-1412864942",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "585669627",
+      "hc_lt_id_sptag": "-985633280",
+      "id_img": "KimagureOrangeRoad_836986_crop2608_-1945760902",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0ksj6eBOJLyrrHP9gpre/B/sUo+pHMEi1zONiW9tbZ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0ksj6eBOJLyrrHP9gpre/9tWbDIR/wr5Q0OiNpjrzyZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "635758718"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "-1686571485",
+        "1541647243",
+        "1078827483"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "635758718",
+      "name_cl_nortag": "Kimagure Orange Road",
+      "total_img": 1,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    }
+  ]
+}

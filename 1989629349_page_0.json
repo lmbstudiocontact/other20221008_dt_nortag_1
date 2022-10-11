@@ -1,0 +1,699 @@
+{
+  "id_nortag": "1989629349",
+  "index_page": 0,
+  "name_parent": "Anime",
+  "name_cl_nortag": "Shukufuku no Campanella",
+  "total_img": 20,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-784408196",
+  "hc_lt_nortag": "1691105425",
+  "hc_lt_sptag": "677652947",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "151963051",
+      "id_img": "ShukufukunoCampanella_229964_crop2608_1851361807",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidl4/IN3Tdhiek6dzInZSjfkQOCpd037xWZSbzNkIx+/ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidl4/IN3Tdhiek6dzInZSjfNbmN5uOH51RX+4h0tcrswJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-729883027",
+        "643795693",
+        "1078827483",
+        "491824726",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-758509937",
+      "hc_lt_id_sptag": "-1929173547",
+      "id_img": "ShukufukunoCampanella_848138_crop2608_2024946187",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAfgoVa7ENQWhMK+kwFa35qE8fQ9LH51cQ97mmmZdGVZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAfgoVa7ENQWhMK+kwFa35CTyF474e+qXQXklp6DCySZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "479129536"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "-1052417380",
+      "id_img": "ShukufukunoCampanella_229968_crop2608_1851361811",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUVlOD2ACsq7en9CxXdjv0QKc+bnbwD5r5LfNsJX31OZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUVlOD2ACsq7en9CxXdjv0riUBqlyVU3wqlZ5MpwTKX5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1353196196",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "1410951528",
+        "2058364749"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "1175426635",
+      "id_img": "ShukufukunoCampanella_848129_crop2608_2024946157",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqBqv0VGPHXLFYh/rePw8Hq4l7zUjlINcgzj0cDQgQrJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqBqv0VGPHXLFYh/rePw8Hk95ezibN9cxY7dEglqZjUZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "117222074",
+        "-353024394",
+        "376240968",
+        "-1353196196",
+        "479129536",
+        "-260062140",
+        "-1165766878",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "1304907401",
+      "id_img": "ShukufukunoCampanella_229966_crop2608_1851361809",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifltvZOH6M47JvxzqgdtuVAl6qig2ceD9HU3qs/qlgFiZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifltvZOH6M47JvxzqgdtuVAaWByHIRXvGmgA0LRpPcSnZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-353024394",
+        "1813151526",
+        "-260062140",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "1947919163",
+      "id_img": "ShukufukunoCampanella_848115_crop2608_2024946122",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicL1SPw2oxEH6cFeYRjD0Dv8Vm6seAACum6SnO0MHwx3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicL1SPw2oxEH6cFeYRjD0Dvf0F7WdPR6L/8Pmt9O1tZRpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "117222074",
+        "-1353196196",
+        "479129536",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "491824726",
+        "-223293710",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "-382974998",
+      "id_img": "ShukufukunoCampanella_848130_crop2608_2024946179",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxpvavr1p3LMtCYsUkuJW/YZWl2DOGi9xQXaG5RnKEV5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxpvavr1p3LMtCYsUkuJW/LPkmgwYx+3QXVtALpWVhJ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1216236529",
+        "-353024394",
+        "1568092380",
+        "680065126",
+        "-1353196196",
+        "-260062140",
+        "-1165766878",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "197572142",
+      "id_img": "ShukufukunoCampanella_848117_crop2608_1780695028",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgTAPGVarCaSyhsAu1prC7rC1hFlG5SrexDYABQqXvQ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgTAPGVarCaSyhsAu1prC7uIoA8apI0nuYNHfOIqvYH5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1840606871",
+        "-353024394",
+        "1813151526",
+        "-260062140",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "-1258502470",
+      "id_img": "ShukufukunoCampanella_848135_crop2608_2024946184",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicirtHLIHtVozmMb2cE0hOpxqI7I/09MhgWkhl2AheXHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicirtHLIHtVozmMb2cE0hOphHxC41CYKPyjwlgrLQqHiJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-729883027",
+        "117222074",
+        "-353024394",
+        "-1353196196",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "491824726",
+        "-223293710"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "506163013",
+      "id_img": "ShukufukunoCampanella_848140_crop2608_-2008314252",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3Npr8uGuhwuQluh2KiFAWBpLdtIaH4bNyYHbGEs4U2ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3Npr8uGuhwuQluh2KiFAW+8nF4/ZGK6uI/yg+s3yDVZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1840606871",
+        "-1230434216",
+        "-353024394",
+        "1813151526",
+        "-260062140",
+        "1078827483",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "2118401279",
+      "id_img": "ShukufukunoCampanella_848117_crop2608_1486216350",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHQFh1TUZViGIMMaRw4gvisbQW/JeZahqB+Sv7XZVQ6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHQFh1TUZViGIMMaRw4gviMzfK5bHYZQg/h3ycPC0Y+pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1840606871",
+        "-353024394",
+        "1813151526",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "1304907401",
+      "id_img": "ShukufukunoCampanella_229961_crop2608_1851361804",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/5pvYzWQxhhEShyhon/83NdqHhxVXB+K0iTNzstd12JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/5pvYzWQxhhEShyhon/83lyHREZxnLfhegJWotevyhZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-353024394",
+        "1813151526",
+        "-260062140",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "330556850",
+      "id_img": "ShukufukunoCampanella_229981_crop2608_-1456506724",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXJTMQ4ZIhDOlMVE4UKRFkDzh+SvwMoFiQC+PpO0PxXpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXJTMQ4ZIhDOlMVE4UKRFkjI+B243xxu0SfnZjFC8CupVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1230434216",
+        "-353024394",
+        "1568092380",
+        "-1450260536",
+        "1622667236",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "1584422189",
+      "id_img": "ShukufukunoCampanella_848128_crop2608_-1811733314",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyB/OHZE0goSeIhezi3FWsjsVZwxWgiMc6r6dH/KPMzJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyB/OHZE0goSeIhezi3FWs52WsBXy57+RxfD6aDmer25Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "491824726",
+        "-223293710",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "-613220110",
+      "id_img": "ShukufukunoCampanella_848110_crop2608_2024946117",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5UCAgCxBfZEA+IwPW73Iu3hihdSx/0IwWYaNsZGvOnZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5UCAgCxBfZEA+IwPW73Iu+/wf2i3qR7Xuy4FnHWQt7pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "1568092380",
+        "-260062140",
+        "-1165766878",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1288442966",
+      "hc_lt_id_sptag": "192252494",
+      "id_img": "ShukufukunoCampanella_229981_crop2608_855038319",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXxcaaKhXjpem4s9afnjZtfW/cBbkPzkb+js3TEqwbtJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXxcaaKhXjpem4s9afnjZtqRuwAWgSp20P1dERsfW3lZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1989629349"
+      ],
+      "lt_id_sptag": [
+        "1956034203",
+        "-1216236529"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "1757348395",
+      "id_img": "ShukufukunoCampanella_229963_crop2608_1851361806",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWqb8L6sOsDKQeEKMldAOs4choM84dZGxW3Kyd8+fOM5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWqb8L6sOsDKQeEKMldAOs5QdxaZsFDCGcKU4cZ6SZ5pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "117222074",
+        "-353024394",
+        "1568092380",
+        "-260062140",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "96904582",
+      "id_img": "ShukufukunoCampanella_848150_crop2608_724324070",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/yRx5l1M7mU+mMIOuCrY4PsjNiOZwOoFjOHWvwiXoUpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/yRx5l1M7mU+mMIOuCrY4Vnvre83HIIzpbkqH6FbkJJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "1840606871",
+        "117222074",
+        "-353024394",
+        "376240968",
+        "479129536",
+        "-260062140",
+        "-1165766878",
+        "-1882261033",
+        "1078827483",
+        "-223293710"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "-365529591",
+      "id_img": "ShukufukunoCampanella_229979_crop2608_-1770459963",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3fDhsSTOmJhJV2zXlJWF0M/f2cneJ0Fo1mL9jY5rZQJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3fDhsSTOmJhJV2zXlJWF04o5t1v+ZNAhvXS51gPq485Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-353024394",
+        "1568092380",
+        "-260062140",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1309738913",
+      "hc_lt_id_sptag": "799491323",
+      "id_img": "ShukufukunoCampanella_229969_crop2608_1851361812",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKvMTwkeCMpmi6TNdS6WpQVC3UmnWpMuMsplNkS0rGUJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKvMTwkeCMpmi6TNdS6WpQWTRgPNonN8V614gfDKaGapVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1989629349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-353024394",
+        "-1353196196",
+        "-1165766878",
+        "1078827483",
+        "491824726"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1989629349",
+      "name_cl_nortag": "Shukufuku no Campanella",
+      "total_img": 20,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-223293710",
+      "name_cl_sptag": "Agnes Boulange",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "1956034203",
+      "name_cl_sptag": "Boy Sad",
+      "name_parent": "Anime",
+      "total": 1551
+    },
+    {
+      "id_sptag": "479129536",
+      "name_cl_sptag": "Carina Verritti",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "2058364749",
+      "name_cl_sptag": "Girls Eyes White",
+      "name_parent": "Anime",
+      "total": 133
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1937610099",
+      "name_cl_sptag": "Girls Hair Grey",
+      "name_parent": "Anime",
+      "total": 9239
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "643795693",
+      "name_cl_sptag": "Girls Hair Violet",
+      "name_parent": "Anime",
+      "total": 2650
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "680065126",
+      "name_cl_sptag": "Girls Sad",
+      "name_parent": "Anime",
+      "total": 10506
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1622667236",
+      "name_cl_sptag": "Girls Wedding",
+      "name_parent": "Anime",
+      "total": 2328
+    },
+    {
+      "id_sptag": "-1882261033",
+      "name_cl_sptag": "Girls Witch",
+      "name_parent": "Anime",
+      "total": 8338
+    },
+    {
+      "id_sptag": "1840606871",
+      "name_cl_sptag": "Minette Shukufuku no Campanella",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "-1216236529",
+      "name_cl_sptag": "Sad",
+      "name_parent": "Anime",
+      "total": 12057
+    }
+  ]
+}
