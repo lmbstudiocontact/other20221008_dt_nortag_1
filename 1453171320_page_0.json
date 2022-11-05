@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1577960121",
+  "hc_lt_data_img": "-170730298",
   "hc_lt_nortag": "1441527796",
-  "hc_lt_sptag": "-625953407",
+  "hc_lt_sptag": "1924029298",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,28 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1073498436",
-      "hc_lt_id_sptag": "61682528",
-      "id_img": "ItsukaTenmaNoKuroUsagi_179276_crop2608_-1174389120",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3La0UVDqy3jC0/MniiyGAVFnwt/YErNd47HIWfidqQJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3La0UVDqy3jC0/MniiyGAgdzhyenpHbz/ikneuj0ejZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1453171320",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "117222074",
-        "-353024394",
-        "1078827483",
-        "-1358769180"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1073498436",
@@ -65,8 +43,30 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1073498436",
+      "hc_lt_id_sptag": "61682528",
+      "id_img": "ItsukaTenmaNoKuroUsagi_179276_crop2608_-1174389120",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3La0UVDqy3jC0/MniiyGAVFnwt/YErNd47HIWfidqQJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3La0UVDqy3jC0/MniiyGAgdzhyenpHbz/ikneuj0ejZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1453171320",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "117222074",
+        "-353024394",
+        "1078827483",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "315086262",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-579839311",
       "id_img": "ItsukaTenmaNoKuroUsagi_230562_crop2608_718646756",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnlaP1CkQ/uLVBkiGryCrJ2AieuHyH6UI1aok4oXo7WpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnlaP1CkQ/uLVBkiGryCrJu2AbKV/m4N7MSEpZ0uUUJpVy4706IhQgSYlgwrgVRHU=",
@@ -76,6 +76,9 @@
       "list_id_nortag": [
         "1728965817",
         "1453171320"
+      ],
+      "lt_id_sptag": [
+        "1728965817"
       ]
     },
     {
@@ -125,6 +128,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-1915687819",
       "name_cl_sptag": "Girls Eyes Red",

@@ -19,6 +19,25 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-865478182",
+      "hc_lt_id_sptag": "40387459",
+      "id_img": "2019-Puritalia-Berlinetta-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEDx+izrs6PH3w7PblQSbZ9HOhntwvq6LQ3DzqAy8DmZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEDx+izrs6PH3w7PblQSbZoQyyBXoEVhTPZQjgI4TD4JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "966440087",
+        "574426964"
+      ],
+      "lt_id_sptag": [
+        "2093425793",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "501590192",
       "hc_lt_id_sptag": "176845796",
       "id_img": "2015-Puritalia-427-V2-1600_crop_2_center",
@@ -33,43 +52,6 @@
       "lt_id_sptag": [
         "714418671",
         "-1948739237"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "501590192",
-      "hc_lt_id_sptag": "1596631523",
-      "id_img": "2015-Puritalia-427-V1-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictoXlfe3Zqz9luit1FxtcpSQmctegwFPP3r2vafv8g75Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictoXlfe3Zqz9luit1FxtcpD+nv7QhZXfcPSkc8+bws9pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "574426964"
-      ],
-      "lt_id_sptag": [
-        "910932176",
-        "-1948739237"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-865478182",
-      "hc_lt_id_sptag": "-1607895527",
-      "id_img": "2019-Puritalia-Berlinetta-V1-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIMaCXZI8DuH09rNCYva71u3cJT6sp2DRt2LOYEkqbHZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIMaCXZI8DuH09rNCYva71onBFQAKfVgtks5t2ZdZ9LJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "966440087",
-        "574426964"
-      ],
-      "lt_id_sptag": [
-        "-1612000988",
-        "-1945045153"
       ]
     },
     {
@@ -94,10 +76,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-865478182",
-      "hc_lt_id_sptag": "40387459",
-      "id_img": "2019-Puritalia-Berlinetta-V4-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEDx+izrs6PH3w7PblQSbZ9HOhntwvq6LQ3DzqAy8DmZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEDx+izrs6PH3w7PblQSbZoQyyBXoEVhTPZQjgI4TD4JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1607895527",
+      "id_img": "2019-Puritalia-Berlinetta-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIMaCXZI8DuH09rNCYva71u3cJT6sp2DRt2LOYEkqbHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIMaCXZI8DuH09rNCYva71onBFQAKfVgtks5t2ZdZ9LJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -106,8 +88,26 @@
         "574426964"
       ],
       "lt_id_sptag": [
-        "2093425793",
+        "-1612000988",
         "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "501590192",
+      "hc_lt_id_sptag": "1596631523",
+      "id_img": "2015-Puritalia-427-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictoXlfe3Zqz9luit1FxtcpSQmctegwFPP3r2vafv8g75Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictoXlfe3Zqz9luit1FxtcpD+nv7QhZXfcPSkc8+bws9pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "574426964"
+      ],
+      "lt_id_sptag": [
+        "910932176",
+        "-1948739237"
       ]
     }
   ],

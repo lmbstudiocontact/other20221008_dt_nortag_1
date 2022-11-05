@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "579988292",
-      "id_img": "2010-Singer-911-V6-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGGM/z9+tSwgx0mPvcdWxcVlDevSjPJ9ngafW8iAyI1JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGGM/z9+tSwgx0mPvcdWxc4SO4LWx9i5aWxWR7ZsBHiJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1010501042",
+      "id_img": "2018-Singer-DLS-V6-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichgc8ti/tlrX/njEVP1ZPdh44qTG0Qgyhg3h+WB4iNdZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichgc8ti/tlrX/njEVP1ZPdWd9HcjxJ+y/4FSrDcUDc2JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -31,18 +31,208 @@
         "-1576098027"
       ],
       "lt_id_sptag": [
-        "-1953356842",
         "2050199791",
+        "641120196",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "614327578",
+      "id_img": "2018-Singer-DLS-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyZTxWyDnkCdRvT14cFULd0ZKuF9tQOL+XfNQ3u/q0lZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyZTxWyDnkCdRvT14cFULdyVlEZzYFiL+Zy4q++77nepVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "1034147206",
+        "2050199791",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "777933738",
+      "id_img": "2018-Singer-DLS-V9-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmkcYkMsyoS5NmEgsoQrIpIzurtLDFXXWilntTxEhkAZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmkcYkMsyoS5NmEgsoQrIp5xxzOLP2JQet9fNrkqjsfJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "51579681",
+        "2050199791",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "-32832865",
+      "id_img": "2018-Singer-DLS-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPXgCc++iB+xJS08khwex/zDBhqF8uQYtQYgjEgrFyOJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPXgCc++iB+xJS08khwex/hPqwNkluLNRqu3Q8BmvpM5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "2050199791",
+        "1230660711",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "-1125860114",
+      "id_img": "2015-Singer-911-Targa-V8-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/xZv2ZgyzN0l5G9cIzwHQ3Ap1tOJDZgTmZaOp3jNrE5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/xZv2ZgyzN0l5G9cIzwHQJKr/tRxOx/0PNjiDXN1//ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "2050199791",
+        "-1948739237",
+        "-464662359"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "1243451856",
+      "id_img": "2010-Singer-911-V2-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep0/2FGPzfsiU3GPW6RwuOJivg/O7FN5PKwxz+CIahTZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep0/2FGPzfsiU3GPW6RwuOglMCAM7gagEOQi/TVtEah5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "714418671",
+        "-1953356842",
+        "2050199791"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "189498665",
+      "id_img": "2015-Singer-911-Targa-V2-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2++5PxDYO+RJjQO3ci63woQRX+iXn+4hBOudRY5Z1npVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2++5PxDYO+RJjQO3ci63w/qcYLsjytZpohYynYgwIcpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "714418671",
+        "2050199791",
+        "-1948739237"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "-1866992802",
+      "id_img": "2018-Singer-DLS-V7-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWQu1gk1nNaZ28OYeEpcBNYWXVZeUyymwYhEZ/LyPEoJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWQu1gk1nNaZ28OYeEpcBN1GN6K65DTwoQwKrRhEjZ/ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "2050199791",
+        "444606691",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "-189641123",
+      "id_img": "2018-Singer-DLS-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciiKaJRIg2ip9aNRC/Ix6/DTuauK4FLwNb3gRWl2eFk5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciiKaJRIg2ip9aNRC/Ix6/VcaXB8NczPiR2MesXiAVPZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "2050199791",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "-2027789557",
+      "id_img": "2015-Singer-911-Targa-V6-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTDR0Iw63qsy7SpNs+zoxlnzNf4PVMyyD2o9rDbLYQcpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTDR0Iw63qsy7SpNs+zoxlCsaxUQq4rpCQQONGjH8l+ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "2050199791",
+        "-1948739237",
         "-71635349"
       ]
     },
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "-1879383531",
-      "id_img": "2010-Singer-911-V4-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6A8MP0aDC8TARgdBhLM8Fdut10yA+QM2Qt6RiomGPU5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6A8MP0aDC8TARgdBhLM8F1UmbEYOOLLbrXsg1Rm3oy5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "948623416",
+      "id_img": "2015-Singer-911-Targa-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8oGhaXwosP9NU+80RhpXbVofszHHEul3GWNd72wnmopVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8oGhaXwosP9NU+80RhpXblJWAE9TspyOmKVO/q31DhpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1576098027"
+      ],
+      "lt_id_sptag": [
+        "2050199791",
+        "910932176",
+        "-1948739237"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1870936725",
+      "hc_lt_id_sptag": "1991703661",
+      "id_img": "2010-Singer-911-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFiKalOlptj5Nrf6OrUJoS8M2Pm0OkT2dkxrscDPSzPpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFiKalOlptj5Nrf6OrUJoSfPXsMbJbVpBPiPYZBkXQFZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -52,7 +242,7 @@
       "lt_id_sptag": [
         "-1953356842",
         "2050199791",
-        "321391661"
+        "910932176"
       ]
     },
     {
@@ -96,120 +286,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "-32832865",
-      "id_img": "2018-Singer-DLS-V3-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPXgCc++iB+xJS08khwex/zDBhqF8uQYtQYgjEgrFyOJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPXgCc++iB+xJS08khwex/hPqwNkluLNRqu3Q8BmvpM5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "2050199791",
-        "1230660711",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "189498665",
-      "id_img": "2015-Singer-911-Targa-V2-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2++5PxDYO+RJjQO3ci63woQRX+iXn+4hBOudRY5Z1npVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2++5PxDYO+RJjQO3ci63w/qcYLsjytZpohYynYgwIcpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "714418671",
-        "2050199791",
-        "-1948739237"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "-1125860114",
-      "id_img": "2015-Singer-911-Targa-V8-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/xZv2ZgyzN0l5G9cIzwHQ3Ap1tOJDZgTmZaOp3jNrE5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/xZv2ZgyzN0l5G9cIzwHQJKr/tRxOx/0PNjiDXN1//ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "2050199791",
-        "-1948739237",
-        "-464662359"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "777933738",
-      "id_img": "2018-Singer-DLS-V9-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmkcYkMsyoS5NmEgsoQrIpIzurtLDFXXWilntTxEhkAZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmkcYkMsyoS5NmEgsoQrIp5xxzOLP2JQet9fNrkqjsfJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "51579681",
-        "2050199791",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "-1866992802",
-      "id_img": "2018-Singer-DLS-V7-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWQu1gk1nNaZ28OYeEpcBNYWXVZeUyymwYhEZ/LyPEoJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWQu1gk1nNaZ28OYeEpcBN1GN6K65DTwoQwKrRhEjZ/ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "2050199791",
-        "444606691",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "-2027789557",
-      "id_img": "2015-Singer-911-Targa-V6-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTDR0Iw63qsy7SpNs+zoxlnzNf4PVMyyD2o9rDbLYQcpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTDR0Iw63qsy7SpNs+zoxlCsaxUQq4rpCQQONGjH8l+ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "2050199791",
-        "-1948739237",
-        "-71635349"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
       "hc_lt_id_sptag": "1931761008",
       "id_img": "2015-Singer-911-Targa-V5-1600_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0guhiNo2KvIwxOrfV5iWwiLi6jeiQ4wiULW3K+DDM4JVy4706IhQgSYlgwrgVRHU=",
@@ -229,67 +305,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "1243451856",
-      "id_img": "2010-Singer-911-V2-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep0/2FGPzfsiU3GPW6RwuOJivg/O7FN5PKwxz+CIahTZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep0/2FGPzfsiU3GPW6RwuOglMCAM7gagEOQi/TVtEah5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "714418671",
-        "-1953356842",
-        "2050199791"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "-189641123",
-      "id_img": "2018-Singer-DLS-V1-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciiKaJRIg2ip9aNRC/Ix6/DTuauK4FLwNb3gRWl2eFk5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciiKaJRIg2ip9aNRC/Ix6/VcaXB8NczPiR2MesXiAVPZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "1623687721",
-        "2050199791",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "614327578",
-      "id_img": "2018-Singer-DLS-V4-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyZTxWyDnkCdRvT14cFULd0ZKuF9tQOL+XfNQ3u/q0lZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyZTxWyDnkCdRvT14cFULdyVlEZzYFiL+Zy4q++77nepVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "1034147206",
-        "2050199791",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "1991703661",
-      "id_img": "2010-Singer-911-V1-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFiKalOlptj5Nrf6OrUJoS8M2Pm0OkT2dkxrscDPSzPpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFiKalOlptj5Nrf6OrUJoSfPXsMbJbVpBPiPYZBkXQFZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1879383531",
+      "id_img": "2010-Singer-911-V4-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6A8MP0aDC8TARgdBhLM8Fdut10yA+QM2Qt6RiomGPU5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6A8MP0aDC8TARgdBhLM8F1UmbEYOOLLbrXsg1Rm3oy5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -299,26 +318,7 @@
       "lt_id_sptag": [
         "-1953356842",
         "2050199791",
-        "910932176"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "948623416",
-      "id_img": "2015-Singer-911-Targa-V1-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8oGhaXwosP9NU+80RhpXbVofszHHEul3GWNd72wnmopVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8oGhaXwosP9NU+80RhpXblJWAE9TspyOmKVO/q31DhpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1576098027"
-      ],
-      "lt_id_sptag": [
-        "2050199791",
-        "910932176",
-        "-1948739237"
+        "321391661"
       ]
     },
     {
@@ -362,10 +362,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1870936725",
-      "hc_lt_id_sptag": "1010501042",
-      "id_img": "2018-Singer-DLS-V6-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichgc8ti/tlrX/njEVP1ZPdh44qTG0Qgyhg3h+WB4iNdZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichgc8ti/tlrX/njEVP1ZPdWd9HcjxJ+y/4FSrDcUDc2JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "579988292",
+      "id_img": "2010-Singer-911-V6-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGGM/z9+tSwgx0mPvcdWxcVlDevSjPJ9ngafW8iAyI1JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGGM/z9+tSwgx0mPvcdWxc4SO4LWx9i5aWxWR7ZsBHiJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -373,9 +373,9 @@
         "-1576098027"
       ],
       "lt_id_sptag": [
+        "-1953356842",
         "2050199791",
-        "641120196",
-        "-1945968674"
+        "-71635349"
       ]
     }
   ],

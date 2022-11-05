@@ -20,24 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1253470777",
-      "hc_lt_id_sptag": "735795529",
-      "id_img": "2016-Quantum-GP700-V1-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLj2hmJbl9NNC7w0gMWBHXY9CUV6LgmgGcZbaRlIAJ1ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLj2hmJbl9NNC7w0gMWBHXRf4otJRAHuoIDNVw3VY9MJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1489033972"
-      ],
-      "lt_id_sptag": [
-        "910932176",
-        "-1947815716"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1253470777",
       "hc_lt_id_sptag": "753502155",
       "id_img": "2016-Quantum-GP700-V3-1600_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD9J1MqXsYohvRLF6Lmz2cUXrdzz4TiKhFK2RYfdmmCZVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +32,24 @@
       ],
       "lt_id_sptag": [
         "517905166",
+        "-1947815716"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1253470777",
+      "hc_lt_id_sptag": "735795529",
+      "id_img": "2016-Quantum-GP700-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLj2hmJbl9NNC7w0gMWBHXY9CUV6LgmgGcZbaRlIAJ1ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLj2hmJbl9NNC7w0gMWBHXRf4otJRAHuoIDNVw3VY9MJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1489033972"
+      ],
+      "lt_id_sptag": [
+        "910932176",
         "-1947815716"
       ]
     }

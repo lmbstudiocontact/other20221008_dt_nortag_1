@@ -20,25 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-749454289",
-      "hc_lt_id_sptag": "-538213063",
-      "id_img": "2015-Ram-1500-Rebel-V5-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuQQv7a9rYJl4uNFIf/zI1eqP2AQOJ4oGRacpCJyDS9ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuQQv7a9rYJl4uNFIf/zI18AMujbVnPc7vi3TanY4gEZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1817884623"
-      ],
-      "lt_id_sptag": [
-        "-1948739237",
-        "124878156",
-        "65904398"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-749454289",
       "hc_lt_id_sptag": "206674517",
       "id_img": "2015-Ram-1500-Rebel-V4-1600_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/vieJDjwEWg9NGDnKfah3yTgbi/PtiPb5Ie0jYRUli5Vy4706IhQgSYlgwrgVRHU=",
@@ -53,6 +34,25 @@
         "-1948739237",
         "65904398",
         "321391661"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-749454289",
+      "hc_lt_id_sptag": "-401801937",
+      "id_img": "2015-Ram-1500-Rebel-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJwYByTYHeTdWobKBofaYlOgeb9ueob6dpaEbVco1GGZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJwYByTYHeTdWobKBofaYlluD8Xm30h7G3rfsbbvZ4PJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1817884623"
+      ],
+      "lt_id_sptag": [
+        "517905166",
+        "-1948739237",
+        "65904398"
       ]
     },
     {
@@ -77,10 +77,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-749454289",
-      "hc_lt_id_sptag": "-401801937",
-      "id_img": "2015-Ram-1500-Rebel-V3-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJwYByTYHeTdWobKBofaYlOgeb9ueob6dpaEbVco1GGZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJwYByTYHeTdWobKBofaYlluD8Xm30h7G3rfsbbvZ4PJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-538213063",
+      "id_img": "2015-Ram-1500-Rebel-V5-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuQQv7a9rYJl4uNFIf/zI1eqP2AQOJ4oGRacpCJyDS9ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuQQv7a9rYJl4uNFIf/zI18AMujbVnPc7vi3TanY4gEZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -88,8 +88,8 @@
         "1817884623"
       ],
       "lt_id_sptag": [
-        "517905166",
         "-1948739237",
+        "124878156",
         "65904398"
       ]
     }

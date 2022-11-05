@@ -6,9 +6,9 @@
   "total_img": 8,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1350399234",
+  "hc_lt_data_img": "-386374095",
   "hc_lt_nortag": "-1923673970",
-  "hc_lt_sptag": "1128380398",
+  "hc_lt_sptag": "1754196139",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,8 +19,34 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "422796046",
+      "hc_lt_id_sptag": "1980203706",
+      "id_img": "Gleipnir100620101644_crop2608_-822286153",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid44iAYrxxXcGvMU57ZIUEyBu56QJbAAyBNEbUi9/lHg5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid44iAYrxxXcGvMU57ZIUEy90w5TtakmcbevFURyNS2fZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "672100120"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-2017515920",
+        "-1230434216",
+        "-353024394",
+        "1846426926",
+        "491824726",
+        "1097693819",
+        "-1358769180",
+        "2058364749"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-350565503",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-1433110098",
       "id_img": "Gleipnir100620100743_crop2608_-1237375510",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXPSfAqwgscVxZE73FlavIH0E8y3UltkYNxz0q0T3XoZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXPSfAqwgscVxZE73FlavIoUs7a/NsOrroRfxXA1BHEJVy4706IhQgSYlgwrgVRHU=",
@@ -30,15 +56,18 @@
       "list_id_nortag": [
         "-467032699",
         "672100120"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "422796046",
-      "hc_lt_id_sptag": "1995136434",
-      "id_img": "Gleipnir100620100611_crop2608_-822316040",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1hk81hfj4jogXZd3gnETrIbwlBlQnu8Audz1JNStKvpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1hk81hfj4jogXZd3gnETrxvRrFpodypDCb4W9uDfoIZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1399037828",
+      "id_img": "Gleipnir100620100627_crop2608_165623087",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidv6bQmk1HNtDoTDTLPSe5jMcVEfmo5oIZ2kYJinmgWHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidv6bQmk1HNtDoTDTLPSe5jwQw1nasQtE7fZQpp5CfFXpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -47,14 +76,73 @@
         "672100120"
       ],
       "lt_id_sptag": [
+        "1545739930",
         "-1216236529",
-        "1755521698",
-        "643795693",
+        "-353024394",
         "680065126",
+        "1813151526"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1126174606",
+      "hc_lt_id_sptag": "",
+      "id_img": "Gleipnir100620100652_crop2608_-313803897",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz0Yq9depG9nGs2Cdzba7Q3fDtrmTJNIBrFIVt+KCKWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz0Yq9depG9nGs2Cdzba7Qrzb5/QtxcOI0uz7fPTQCr5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "672100120"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "422796046",
+      "hc_lt_id_sptag": "-1204274917",
+      "id_img": "Gleipnir100620100747_crop2608_-822314980",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieS5kd/Pub56dAEPdx5HIskzWno6qk9Wm+EbiR5vBwYwJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieS5kd/Pub56dAEPdx5HIsk2VGwMkmpHOD8cXbNnwn/GpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "672100120"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1937610099",
+        "-1230434216",
+        "-353024394",
+        "-1353196196",
+        "-1823594757"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "422796046",
+      "hc_lt_id_sptag": "270790266",
+      "id_img": "Gleipnir100620101633_crop2608_-822286185",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGohkJORw6nP2KKsKqKJVkmbZ3FgWi73r6/wHHkBgN5pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGohkJORw6nP2KKsKqKJVkcxe0M1/PtcIrW3UZWoqTFZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "672100120"
+      ],
+      "lt_id_sptag": [
+        "-2017515920",
+        "-1230434216",
+        "643795693",
         "1846426926",
-        "1813151526",
+        "1078827483",
         "491824726",
-        "1410951528"
+        "1410951528",
+        "2058364749"
       ]
     },
     {
@@ -84,10 +172,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "422796046",
-      "hc_lt_id_sptag": "-1204274917",
-      "id_img": "Gleipnir100620100747_crop2608_-822314980",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieS5kd/Pub56dAEPdx5HIskzWno6qk9Wm+EbiR5vBwYwJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieS5kd/Pub56dAEPdx5HIsk2VGwMkmpHOD8cXbNnwn/GpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1995136434",
+      "id_img": "Gleipnir100620100611_crop2608_-822316040",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1hk81hfj4jogXZd3gnETrIbwlBlQnu8Audz1JNStKvpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1hk81hfj4jogXZd3gnETrxvRrFpodypDCb4W9uDfoIZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -96,99 +184,14 @@
         "672100120"
       ],
       "lt_id_sptag": [
-        "1545739930",
-        "-1937610099",
-        "-1230434216",
-        "-353024394",
-        "-1353196196",
-        "-1823594757"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "422796046",
-      "hc_lt_id_sptag": "1980203706",
-      "id_img": "Gleipnir100620101644_crop2608_-822286153",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid44iAYrxxXcGvMU57ZIUEyBu56QJbAAyBNEbUi9/lHg5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid44iAYrxxXcGvMU57ZIUEy90w5TtakmcbevFURyNS2fZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "672100120"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "-2017515920",
-        "-1230434216",
-        "-353024394",
-        "1846426926",
-        "491824726",
-        "1097693819",
-        "-1358769180",
-        "2058364749"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1126174606",
-      "hc_lt_id_sptag": "",
-      "id_img": "Gleipnir100620100652_crop2608_-313803897",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz0Yq9depG9nGs2Cdzba7Q3fDtrmTJNIBrFIVt+KCKWpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz0Yq9depG9nGs2Cdzba7Qrzb5/QtxcOI0uz7fPTQCr5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "672100120"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "422796046",
-      "hc_lt_id_sptag": "1399037828",
-      "id_img": "Gleipnir100620100627_crop2608_165623087",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidv6bQmk1HNtDoTDTLPSe5jMcVEfmo5oIZ2kYJinmgWHZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidv6bQmk1HNtDoTDTLPSe5jwQw1nasQtE7fZQpp5CfFXpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "672100120"
-      ],
-      "lt_id_sptag": [
-        "1545739930",
         "-1216236529",
-        "-353024394",
-        "680065126",
-        "1813151526"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "422796046",
-      "hc_lt_id_sptag": "270790266",
-      "id_img": "Gleipnir100620101633_crop2608_-822286185",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGohkJORw6nP2KKsKqKJVkmbZ3FgWi73r6/wHHkBgN5pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGohkJORw6nP2KKsKqKJVkcxe0M1/PtcIrW3UZWoqTFZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "672100120"
-      ],
-      "lt_id_sptag": [
-        "-2017515920",
-        "-1230434216",
+        "1755521698",
         "643795693",
+        "680065126",
         "1846426926",
-        "1078827483",
+        "1813151526",
         "491824726",
-        "1410951528",
-        "2058364749"
+        "1410951528"
       ]
     }
   ],
@@ -213,6 +216,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "491824726",
       "name_cl_sptag": "Girls Cute Cool",
